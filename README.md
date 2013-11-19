@@ -19,4 +19,4 @@ Brian Hicks
 
 ## The Ask
 
-If you feel the same way I do about this, and want to help me out: star this repo. It's obviously not useful way down in my project list, and GitHub (currently) uses stars to decide which to show on your public profile page. If you want to fork this or write your own, let me know and I'll do the same for you.
+If you feel the same way I do about this, and want to help me out: star this repo. It's obviously not useful way down in my project list, and GitHub (currently) uses stars to decide which projects  to show on your public profile page. If you want to fork this or write your own, let me know and I'll do the same for you.
